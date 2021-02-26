@@ -1,0 +1,23 @@
+{
+  "name": "readme_gen",
+  "description": "[How to create a Professional README](./readme-guide.md)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jitochadha1/readme_gen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jitochadha1/readme_gen/issues"
+  },
+  "homepage": "https://github.com/jitochadha1/readme_gen#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
