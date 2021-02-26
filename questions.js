@@ -30,7 +30,7 @@ const questions = [
         message: 'what are the test instructions of your project?',
     },
     {
-        type: 'input',
+        type: 'list',
         name: 'license',
         message: 'what license type is your project?',
         choices: ['MIT', 'Public Domain License', 'LGPL', 'Permissive', 'Copyleft', 'Proprietary']

@@ -1,41 +1,39 @@
-![alt text](https://news.mit.edu/sites/default/files/download/201810/MIT-Computer-Announce-01-PRESS.jpg)
+![alt text](https://img.icons8.com/material-sharp/2x/software-license.png)
 # Professional README Generator Starter Code
 
 [How to create a Professional README](./readme-guide.md)
 
-https://github.com/jitochadha1/readme_gen/tree/master
-<a href = "#description">readme gen</a>
+
 ## Description
+
 
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
-
+- [License](#license)
 - [Tests](#tests)
 - [Contributing Guide Lines](#contributing)
 - [Questions](#questions)
 
 ## Installation
 
-
 ## Usage
-
 
 ## Credits
 - [](https://github.com/)
 
 
-<a href = "#contributing"></a>
+## License
+MIT
+
 ## Contributing Guide Lines
 
-<a href = "#tests"></a>
 ## Tests
 
-<a href = "#questions"></a>
 ## Questions
-Feel free to reach out with any question you have about readme gen!
+Feel free to reach out with any question you have about !
 ### Contact information:
 - GitHub: [](https://www.github.com/)
 - Email: [](mailto:)
