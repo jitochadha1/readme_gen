@@ -16,13 +16,13 @@ https://github.com/jitochadha1/readme_gen/tree/master
 - [Tests](#tests)
 - [Contributing Guide Lines](#contributing)
 - [Questions](#questions)
-<a href = "#installation"></a>
+
 ## Installation
 
-<a href = "#usage"></a>
+
 ## Usage
 
-<a href = "#credits"></a>
+
 ## Credits
 - [](https://github.com/)
 
@@ -33,7 +33,7 @@ https://github.com/jitochadha1/readme_gen/tree/master
 <a href = "#tests"></a>
 ## Tests
 
-<a href = "questions"></a>
+<a href = "#questions"></a>
 ## Questions
 Feel free to reach out with any question you have about readme gen!
 ### Contact information:
