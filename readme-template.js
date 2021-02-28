@@ -1,7 +1,12 @@
 function showBadge (license) {
     const badgePath = {
         'MIT': 'https://img.icons8.com/material-sharp/2x/software-license.png',
-        'LGPL': 'https://i.ebayimg.com/images/g/MbcAAOSwI5FekW-E/s-l400.jpg',
+        'LGPL': 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/License_icon-lgpl.svg/256px-License_icon-lgpl.svg.png',
+        'Public Domain License': 'https://en.wikipedia.org/wiki/File:Cc-public_domain_mark_white.svg',
+        'Permissive': 'https://p7.hiclipart.com/preview/388/68/864/copyleft-copyright-symbol-computer-icons-play-thumbnail.jpg',
+        'Copy Left': 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Copyleft.svg/440px-Copyleft.svg.png',
+        'Proprietary': 'https://plumbr.io/app/uploads/2015/01/thread-lock.jpeg'
+        
     }[license] || 'https://i.ebayimg.com/images/g/MbcAAOSwI5FekW-E/s-l400.jpg';
 
     return `![alt text](${badgePath})`;
@@ -23,9 +28,7 @@ function generateReadme(data) {
 
     return `
         ${showBadge(license)}
-        # Professional README Generator Application
-
-        [How to create a Professional README](./readme-guide.md)
+        # Professional README Generator
 
         ${repo}
         ## Description
