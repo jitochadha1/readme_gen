@@ -23,7 +23,7 @@ function generateReadme(data) {
 
     return `
         ${showBadge(license)}
-        # Professional README Generator Starter Code
+        # Professional README Generator Application
 
         [How to create a Professional README](./readme-guide.md)
 
